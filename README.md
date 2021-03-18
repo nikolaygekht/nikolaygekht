@@ -7,7 +7,7 @@ You can also find me in the other places:
 * Read my articles in English at my company website: https://gehtsoftusa.com/author/nikolay-gekht/
 * Read my translations and articles in Russian at habr: https://habr.com/ru/users/ngekht/
 
-I earned my first money developing the program in 1988 (I was in high school) developing receipe management software for a milk factory. 
+I earned my first money back in 1988 (I was in high school) developing receipe management software for a milk factory. 
 It ran a Soviet copy of PDP-11 microcomputer called DVK and was written in pure K&R C. Then there were years of assembler programming for 8080, Z80, 8086, 80386. 
 Then came Windows 3.0 and C++. 20 years, dozen of languages and handful of OSes, I currently mostly use C# and occasionally develop cross-platform Windows/Linux apps. 
 
