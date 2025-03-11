@@ -4,7 +4,7 @@ My name is Nikolay Gekht or @nikolaygekht at github.
 
 You can also find me in the other places:
 * Look at LinkedIn https://www.linkedin.com/in/nikolay-gekht/ for my resume, work history, certifications and articles in English
-* Read my articles in English at my company website: https://gehtsoftusa.com/author/nikolay-gekht/
+* Read my articles in English at my company website: https://www.gehtsoftusa.com/blog
 * Read my translations and articles in Russian at habr: https://habr.com/ru/users/ngekht/
 
 I earned my first money back in 1988 (I was in high school) developing receipe management software for a milk factory. 
